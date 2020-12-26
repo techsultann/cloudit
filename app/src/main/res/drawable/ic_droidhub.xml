@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- drawable/vector.xml -->
+    <vector
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:aapt="http://schemas.android.com/aapt"
+        android:width="42.74dp"
+        android:height="22.89dp"
+        android:viewportWidth="42.74"
+        android:viewportHeight="22.89"
+        >
+
+        <group>
+
+            <path
+                android:pathData="M0 0V22.8914H42.7355V0"
+                android:fillColor="#FFFFFF"
+                />
+
+        </group>
+
+    </vector>
