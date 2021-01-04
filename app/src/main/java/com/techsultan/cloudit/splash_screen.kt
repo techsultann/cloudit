@@ -5,9 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 
+@Suppress("DEPRECATION")
 class splash_screen : AppCompatActivity() {
 
-    private val splashTime : Long = 4000
+    private val splashTime : Long = 3000
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -13,9 +13,6 @@ import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.Query
 import com.google.firebase.firestore.CollectionReference
 import com.google.firebase.firestore.FirebaseFirestore
-import com.google.firebase.ktx.Firebase
-import com.google.firebase.messaging.FirebaseMessagingService
-import com.google.firebase.messaging.ktx.messaging
 import com.techsultan.cloudit.databinding.ActivityMainBinding
 import com.techsultan.cloudit.databinding.ActivityUploadScreenBinding
 

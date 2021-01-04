@@ -8,8 +8,6 @@ import android.util.Patterns
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
-import com.google.firebase.ktx.Firebase
-import com.google.firebase.messaging.ktx.messaging
 import com.techsultan.cloudit.databinding.ActivityLoginScreenBinding
 import com.techsultan.cloudit.databinding.ActivitySignUpBinding
 
@@ -37,7 +35,7 @@ class login_screen : AppCompatActivity() {
         }
 
 
-        Firebase.messaging.isAutoInitEnabled = true
+
 
         auth = FirebaseAuth.getInstance()
 
